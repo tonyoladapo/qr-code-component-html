@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-.main {
+.main-container {
   width: 100%;
   height: 100vh;
   background-color: hsl(212, 45%, 89%);
@@ -21,7 +21,7 @@ body {
 
 .qr-image {
   border-radius: 10px;
-  width: 300px;
+  width: 375px;
 }
 
 .title-text {
